@@ -1,0 +1,8 @@
+thorntail:
+  datasources:
+    data-sources:
+      ExampleDS:
+        driver-name: postgresql
+        connection-url: jdbc:postgresql://postgres:5432/testdb
+        user-name: postgres
+        password: postgres
